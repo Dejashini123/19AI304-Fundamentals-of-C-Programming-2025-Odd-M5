@@ -11,7 +11,7 @@
 ### Step 1:
   Start
 ### Step 2: 
-  Include the standard input-output library: #include<stdio.h>.
+  Include the standard input-output library: #include<stdio.h>
 ### Step 3:
   Declare two functions:
   - `swapv(int, int)` for swapping using call by value  

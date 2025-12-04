@@ -202,7 +202,7 @@ int main(){
 }
 ```
 # Output:
-<img width="535" height="354" alt="image" src="https://github.com/user-attachments/assets/c1ea0c4b-bc3e-482c-909c-c9a679895493" />
+<img width="721" height="252" alt="image" src="https://github.com/user-attachments/assets/5b9e1ed4-41e1-42b1-b2c8-44bf50dc1ee4" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -273,9 +273,11 @@ int main(){
     free(ptr);
     return 0;
 }
+
+
 ```
 # Output:
-<img width="567" height="406" alt="image" src="https://github.com/user-attachments/assets/50a09a5f-ba29-4163-b4c6-304a968281f1" />
+<img width="677" height="232" alt="image" src="https://github.com/user-attachments/assets/30610712-2d96-4f10-b9a2-41e4c956665f" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
